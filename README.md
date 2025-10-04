@@ -2,7 +2,7 @@
 I'm **Roman**, a passionate **Frontend Web Developer** with a growing interest in **Fullstack** development. I love turning ideas into interactive, fast, and responsive web apps.  
 
 - 💪 I specialize in **React, TypeScript, TailwindCSS, SCSS/SASS** for Frontend and **Node.js, Express, MongoDB, Python** for Backend.
-- 🌱 I’m currently learning **Python (with AI focus), Vue.js, Next.js** and improving my skills in **fullstack architecture**.
+- 🌱 I’m currently learning **Python (with AI focus), Vue.js, Angular** and improving my skills in **fullstack architecture**.
 - 💬 I speak **Deutsch (B1-B2), English (B2), Russian, Ukrainian**.
 - 🛠️ I’m passionate about improving my **frontend & backend architecture skills**.
 - 📫 How to reach me: **[romandwebdev@gmail.com]**
